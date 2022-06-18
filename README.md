@@ -1,4 +1,4 @@
-## Olá, sou o Fernando Henrique e seja bem vindo ao beu github!
+## Olá, sou o Fernando Henrique e seja bem vindo ao meu GitHub!
 <div align="center">
   <a href="https://github.com/fernandomk6">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandomk6&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
