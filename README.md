@@ -1,8 +1,8 @@
 ## Olá, sou o Fernando Henrique e seja bem vindo ao meu GitHub!
 <div align="center">
   <a href="https://github.com/fernandomk6">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandomk6&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomk6&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandomk6&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomk6&layout=compact&langs_count=7&theme="/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
